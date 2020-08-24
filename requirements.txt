@@ -1,0 +1,8 @@
+Prompt Based Login (session based and it stores the default username based on entry)
+Logs of chat and previous text available in chat
+Text based, no images and emojis...for now - how to store the log.. maybe a limit on how many sentences and the first intial messages are deleted to store the new lines
+Exit upon Minimization or Clicking exit. (Fix this later)
+Database 
+1 to 1 chatting. But can have multiple chat windows
+
+
